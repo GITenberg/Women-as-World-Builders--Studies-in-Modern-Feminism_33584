@@ -1,0 +1,31 @@
+_repo: Women-as-World-Builders--Studies-in-Modern-Feminism_33584
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dell, Floyd
+    birthdate: 1887
+    deathdate: 1969
+    gutenberg_agent_id: '2100'
+    url: http://www.gutenberg.org/2009/agents/2100
+description: ''
+gutenberg_issued: '2010-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33584'
+  lccn: '13007809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Feminism'
+- !lcc 'HQ'
+- !lcc 'JK'
+tableOfContents: The feminist movement -- Charlotte Perkins Gilman -- Emmeline Parkhurst
+  and Jane Addams -- Olive Schreiner and Isadora Duncan -- Beatrice Webb and Emma
+  Goldman -- Margaret Dreier Robins -- Ellen Key -- Freewomen and Dora Marsden.
+title: 'Women as World Builders: Studies in Modern Feminism'
+url: http://www.gutenberg.org/ebooks/33584
